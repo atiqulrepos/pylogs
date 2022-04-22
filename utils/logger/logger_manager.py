@@ -5,7 +5,7 @@
 # sys.path.append(path.join(path.join(file_path, "..","..")))
 # sys.path.append(path.join(path.join(file_path, "..","..","..")))
 
-from core import Singleton
+from lib import Singleton
 from .logger_builder import LoggerBuilder
 from .logger_error import LoggerError
 import logging
