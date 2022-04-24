@@ -1,0 +1,13 @@
+[20220423 22:26:28-junk-main.py-<module>-CRITICAL]: critical
+[20220423 22:26:28-junk-main.py-<module>-ERROR]: error
+[20220423 22:26:28-junk-main.py-<module>-WARNING]: warning
+[20220423 22:26:28-junk-main.py-<module>-INFO]: info
+[20220423 22:26:28-junk-employee.py-print_email-CRITICAL]: atiqul.islam@email.com
+[20220423 22:26:28-junk-employee.py-print_email-ERROR]: atiqul.islam@email.com
+[20220423 22:26:28-junk-employee.py-print_email-WARNING]: atiqul.islam@email.com
+[20220423 22:26:28-junk-employee.py-print_email-INFO]: atiqul.islam@email.com
+[20220423 22:26:28-junk-main.py-<module>-CRITICAL]: log3-critical
+[20220423 22:26:28-junk-main.py-<module>-ERROR]: log3-error
+[20220423 22:26:28-junk-main.py-<module>-WARNING]: log3-warning
+[20220423 22:26:28-junk-main.py-<module>-INFO]: log3-info
+[20220423 22:26:28-junk-main.py-<module>-ERROR]: in try block

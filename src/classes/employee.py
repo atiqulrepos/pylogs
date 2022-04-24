@@ -1,6 +1,7 @@
-from utils import log
+from src.utils import log
 
-class Employee():
+
+class Employee:
     def __init__(self, fname=None, lname=None):
         self.fname = fname
         self.lname = lname
@@ -10,7 +11,6 @@ class Employee():
 
     def print_email(self):
         email = self.email()
-        log().error("mylog error")
         log().critical(email)
         log().error(email)
         log().warning(email)
