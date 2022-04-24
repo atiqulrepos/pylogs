@@ -6,7 +6,7 @@ import uuid
 
 script_dir = path.dirname(path.realpath(__file__))
 
-sys.path.append("..")
+sys.path.append(path.join(script_dir,".."))
 from src.utils import LoggerManager
 
 
