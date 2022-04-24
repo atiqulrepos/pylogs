@@ -4,6 +4,9 @@ import sys
 import unittest
 import uuid
 
+script_dir = path.dirname(path.realpath(__file__))
+
+sys.path.append("..")
 from src.utils import LoggerManager
 
 
